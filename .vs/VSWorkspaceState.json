@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Bots",
-    "\\Cards",
-    "\\Dialogs",
-    "\\Helpers"
+    "\\dialogs"
   ],
-  "SelectedNode": "\\Bots\\dialog_bot.py",
+  "SelectedNode": "\\requirements.txt.txt",
   "PreviewInSolutionExplorer": false
 }
